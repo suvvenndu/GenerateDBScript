@@ -8,6 +8,7 @@
                       xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
                       xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
                       mc:Ignorable="d"
+                      Icon="Resources/icon.png"
                       Title="Table Schema Generator"
                       GlowBrush="{DynamicResource AccentColorBrush}"
                       ResizeMode="CanResizeWithGrip"
