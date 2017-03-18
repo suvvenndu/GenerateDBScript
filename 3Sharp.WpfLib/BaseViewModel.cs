@@ -9,6 +9,7 @@ namespace _3Sharp.WpfLib
         public event PropertyChangedEventHandler PropertyChanged;
 
        
+
         public void NotifyPropertyChanged(string propertyName)
         {
             if (PropertyChanged != default(PropertyChangedEventHandler))

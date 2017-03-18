@@ -12,6 +12,7 @@ namespace UpdateDatabaseScript
         {
             InitializeComponent();
             this.DataContext = new MainWindowViewModel();
+
         }
     }
 }
